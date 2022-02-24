@@ -1,1 +1,10 @@
 # opencv-project-to-find-the-state-of-banana-in-9-days-based-on-color
+![Screenshot 2022-02-24 205420](https://user-images.githubusercontent.com/92508734/155555158-16d62665-8945-4f41-9a29-25bf87813d8c.jpg)
+![Screenshot 2022-02-24 205436](https://user-images.githubusercontent.com/92508734/155555221-663a1ec6-ea2f-4e08-a0b7-d88391d33256.jpg)
+![Screenshot 2022-02-24 205900](https://user-images.githubusercontent.com/92508734/155555262-f8c8d464-31e5-4081-a20d-070cdc7dd491.jpg)
+![Screenshot 2022-02-24 205917](https://user-images.githubusercontent.com/92508734/155555301-9af51198-f425-4b03-b611-af045c3bdaef.jpg)
+![Screenshot 2022-02-24 205936](https://user-images.githubusercontent.com/92508734/155555343-355bbc5c-d878-4e42-a73c-9b018c3e1162.jpg)
+![Screenshot 2022-02-24 205955](https://user-images.githubusercontent.com/92508734/155555385-a74f600a-9057-45f9-b10c-21cfd6f6822d.jpg)
+![Screenshot 2022-02-24 210010](https://user-images.githubusercontent.com/92508734/155555426-5b5f423c-0e8b-4125-80ac-3b9136c6acf7.jpg)
+![Screenshot 2022-02-24 210023](https://user-images.githubusercontent.com/92508734/155555470-fed6a004-13e6-47e0-ab21-265a5315c51d.jpg)
+![Screenshot 2022-02-24 210037](https://user-images.githubusercontent.com/92508734/155555519-d3e94a9f-a55d-4ab1-8125-3073beb2de05.jpg)
